@@ -1,0 +1,13 @@
+Data Analyst
+
+We are hiring a Data Analyst who can turn messy business data into clear decisions.
+The candidate should be comfortable with Python, SQL, Excel, statistics, data analysis,
+pandas, scikit-learn, basic machine learning, dashboarding, and communication with
+non-technical teams.
+
+Responsibilities:
+- Clean and transform structured datasets.
+- Build clear reports and dashboards.
+- Use statistical thinking to identify trends.
+- Explain insights to recruiters, HR managers, and business stakeholders.
+- Support simple predictive models where useful.
